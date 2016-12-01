@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\grade\desktop\goshoralta 12\goshoralta 12\source.cpp(64): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  goshoralta 12.vcxproj -> C:\Users\grade\Desktop\goshoralta 12\Debug\goshoralta 12.exe
+  goshoralta 12.vcxproj -> C:\Users\grade\Desktop\goshoralta 12\Debug\goshoralta 12.pdb (Full PDB)
